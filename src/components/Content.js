@@ -26,7 +26,7 @@ class Content extends Component  {
             show: false,
             totalPage: '',
             pageSlected: '',
-            uri: 'https://guarded-springs-66217.herokuapp.com/'
+            uri: ''
         };
         this.deleteContactId = '';
         this.initialState = { ...this.state };
