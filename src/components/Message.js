@@ -12,7 +12,7 @@ const Message = ({ message }) => {
     <div className="Message" style={display}>
       <div className="container">
         <div className={className} role="alert">
-          {message.desc}
+          <i className="fas fa-info-circle"></i> {message.desc}
         </div>
       </div>
     </div>
