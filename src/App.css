@@ -1,9 +1,9 @@
 .required {
-    color: #ba2629;
-    margin-right: 5px;
+  color: #ba2629;
+  margin-right: 5px;
 }
 
-.btn-primary ,
+.btn-primary,
 .btn-danger {
-    width: 120px;
+  width: 120px;
 }
